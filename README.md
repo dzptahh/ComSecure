@@ -1,6 +1,6 @@
 # ComSecure Homework Repository
 
-This repository contains my homework assignments for various courses.
+This repository contains my homework assignments for Computer System Security course.
 
 ### Structure
 
